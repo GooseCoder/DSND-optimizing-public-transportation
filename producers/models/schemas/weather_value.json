@@ -1,0 +1,15 @@
+{
+  "type": "record",
+  "namespace": "org.chicago.cta",
+  "name": "weather.value",
+  "fields": [
+    {
+      "name": "temperature",
+      "type": "float"
+    },
+    {
+      "name": "status",
+      "type": "string"
+    }
+  ]
+}
